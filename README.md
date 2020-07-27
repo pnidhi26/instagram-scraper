@@ -14,7 +14,10 @@ Used Tools:
 How to Use:
 
 
-Step1: Download/Clone the repo code and install all the required libareries.
+Step1: Download/Clone the repo code and install all the required libareries using below commands:
+- pip install requests
+- pip install beautifulsoup4
+- pip install re2
 
 Step2: Puts all the instagram urls you want to scrape into users.txt files.
 
