@@ -12,7 +12,12 @@ Used Tools:
 
 
 How to Use:
+
+
 Step1: Download/Clone the repo code
+
 Step2: Puts all the instagram urls you want to scrape into users.txt files.
+
 Step3: run the instascraper.py
+
 Step4: Open the emails.csv and see your desired outputs
