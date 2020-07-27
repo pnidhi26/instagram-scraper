@@ -14,7 +14,7 @@ Used Tools:
 How to Use:
 
 
-Step1: Download/Clone the repo code
+Step1: Download/Clone the repo code and install all the required libareries.
 
 Step2: Puts all the instagram urls you want to scrape into users.txt files.
 
